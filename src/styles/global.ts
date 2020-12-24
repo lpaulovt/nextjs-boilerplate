@@ -8,7 +8,7 @@ const GlobalStyles = createGlobalStyle`
   box-sizing: border-box;
 }
 
-html, body #__next {
+html, body, #__next {
 height: 100%;
 }
 
