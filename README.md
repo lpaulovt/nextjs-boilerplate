@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img alt="Logo NextJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/200px-Nextjs-logo.svg.png" />
+    <img alt="Logo NextJS" src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" width="50%"
+/>
     <br>
     NextJS Boilerplate
 </h1>
@@ -21,7 +22,7 @@ This boilerplate was developed with the following technologies:
 - [NextJS]()
 - [React]()
 - [Typescript]()
-- [styled-components](https://www.styled-components.com/)
+- [Styled-components](https://www.styled-components.com/)
 - [Next-PWA]()
 - [Storybook]()
 - [Jest]()
