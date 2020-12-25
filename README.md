@@ -20,7 +20,7 @@
 This boilerplate was developed with the following technologies:
 
 - [NextJS]()
-- [React]()
+- [ReactJS]()
 - [Typescript]()
 - [Styled-components](https://www.styled-components.com/)
 - [Next-PWA]()
